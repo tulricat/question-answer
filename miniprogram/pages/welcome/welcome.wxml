@@ -1,0 +1,10 @@
+<!--miniprogram/pages/welcome/welcome.wxml-->
+<view class='container'>
+  <image  class="user-image" src='/images/1.png'></image>
+  <view class="user-Welcome">
+    <text>Welcome</text>
+  </view>
+  <view class="moto-container" bindtap='go'>
+    <text class="moto">开 始</text>
+  </view>
+</view>

@@ -1,0 +1,51 @@
+/* pages/yy/yy.wxss */
+.tm{
+  margin-top:  20rpx;
+  margin-left: 20rpx;
+}
+.wtnr{
+  margin-top:  20rpx;
+  margin-left: 20rpx;
+}
+.danr{
+  margin-top:  20rpx;
+  margin-left: 20rpx;
+  justify-content: center;
+}
+.da{
+  border: 1px solid #194F39;
+  border-radius: 3px;
+  height: 180rpx;
+  width: 95%;
+}
+.tjan{
+  display: flex;
+  justify-content: center;
+  margin-top: 100rpx;
+}
+.tj{
+  font-size: 36rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  border: 2px solid #194F39;
+  width: 250rpx;
+  height: 80rpx;
+  border-radius: 5px;
+  text-align: center;
+}
+.xytan{
+  display: flex;
+  justify-content: center;
+  margin-top: 40rpx;
+
+}
+.xyt{
+  font-size: 36rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  border: 2px solid #194F39;
+  width: 250rpx;
+  height: 80rpx;
+  border-radius: 5px;
+  text-align: center;
+}

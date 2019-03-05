@@ -1,0 +1,23 @@
+{
+  "cloud":true,
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/post/post",
+    "pages/ct/ct",
+    "pages/dt/dt",
+    "pages/lx/lx",
+    "pages/sx/sx",
+    "pages/wx/wx",
+    "pages/jsj/jsj",
+    "pages/ls/ls",
+    "pages/yy/yy",
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "00B26A",
+    "navigationBarTitleText": "小游戏",
+    "navigationBarTextStyle": "black"
+  }
+}

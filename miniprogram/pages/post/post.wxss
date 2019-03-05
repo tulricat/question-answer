@@ -1,0 +1,34 @@
+/* pages/post/post.wxss */
+.container{
+  margin-top:  200rpx;
+  font-size: 38rpx;
+  font-weight: blod；
+}
+.user-chuti{
+  margin-top: 100rpx;
+  border: 2px solid #194F39;
+  width: 250rpx;
+  height: 80rpx;
+  border-radius: 10px;
+  text-align: center;
+}
+.ct{
+  font-size: 30rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  color: #00B26A;
+}
+.user-dati{
+  margin-top: 100rpx;
+  border: 2px solid #194F39;
+  width: 250rpx;
+  height: 80rpx;
+  border-radius: 10px;
+  text-align: center;
+}
+.dt{
+  font-size: 30rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  color: #00B26A;
+}

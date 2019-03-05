@@ -1,0 +1,12 @@
+<!--pages/post/post.wxml-->
+<view class='container'>
+  <view class="title">
+    <text>请选择出题或者答题</text>
+  </view>
+  <view class="user-chuti" bindtap='chuti'>
+    <text class="ct">出题</text>
+  </view>
+  <view class="user-dati" bindtap='dati'>
+    <text class="dt">答题</text>
+  </view>
+</view>

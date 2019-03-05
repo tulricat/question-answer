@@ -1,0 +1,20 @@
+<!--pages/yy/yy.wxml-->
+<view>
+  <view>
+    <text class='tm'>题 目</text>
+  </view>
+  <view>
+    <text class='wtnr'>{{lx.wtnr}}</text>
+  </view>
+</view>
+<view>
+  <view class='danr'>
+    <textarea class='da' name="da" placeholder="答案" auto-focus maxlength="50" bindinput="nrtextarea" />
+  </view>
+  <view class='tjan' bindtap='xt'>
+    <text class='tj'>提交</text>
+ </view>
+  <view class='xytan' bindtap='xt'>
+    <text class='xyt'>下一题</text>  
+  </view>
+</view>

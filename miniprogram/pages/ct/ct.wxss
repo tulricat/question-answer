@@ -1,0 +1,45 @@
+/* pages/ct/ct.wxss */
+.an{
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #194F39;
+}
+.lxtitle{
+  margin-top:  20rpx;
+  margin-left: 20rpx;
+}
+.radio-group{
+  margin-top:  20rpx;
+  margin-left: 20rpx;
+}
+
+.wttitle{
+  margin-top:  20rpx;
+  margin-left: 20rpx;
+}
+.wtnr{
+  margin-top:  20rpx;
+  display: flex;
+  justify-content: center;
+}
+.tmnr{
+  border: 1px solid #194F39;
+  border-radius: 3px;
+  height: 180rpx;
+  width: 95%;
+}
+.qrtj{
+  display: flex;
+  justify-content: center;
+  margin-top: 100rpx;
+}
+.qrtjnr{
+  font-size: 36rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  width: 250rpx;
+  height: 80rpx;
+  border: 2px solid #194F39;
+  border-radius: 5px;
+  text-align: center;
+}

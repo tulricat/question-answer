@@ -1,0 +1,21 @@
+<!--pages/dt/dt.wxml-->
+<view class='container'>
+  <view class='a' bindtap='lx'>
+    <text>六学</text>
+  </view>
+  <view class='b' bindtap='sx'>
+    <text>数学</text>
+  </view>
+  <view class='c' bindtap='wx'>
+    <text>文学</text>
+  </view>
+  <view class='d' bindtap='jsj'>
+    <text>计算机</text>
+  </view>
+  <view class='e' bindtap='ls'>
+    <text>历史</text>
+  </view>
+  <view class='f' bindtap='yy'>
+    <text>英语</text>
+  </view>
+</view>

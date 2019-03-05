@@ -1,0 +1,21 @@
+<!--pages/ct/ct.wxml-->
+<view class='ztbj'>
+  <view class='lxtitle'>
+    <text>请选择题目类型</text>
+  </view>
+  <radio-group class="radio-group" bindchange="radioChange">
+    <label class="radio" wx:key="key" wx:for="{{items}}">
+      <radio value="{{item.name}}" checked="{{item.checked}}" />
+      {{item.value}}
+    </label>
+  </radio-group>
+  <view class="wttitle">
+    <text class='wttt'>请写出问题</text>
+  </view>
+  <view class='wtnr'>
+    <textarea class='tmnr' name="tmnr" placeholder="内容" auto-focus maxlength="50" bindinput="nrtextarea" />
+  </view>
+  <view class='qrtj' bindtap='tj'>
+    <text class='qrtjnr'>确认提交</text>
+  </view>
+</view>
